@@ -1,0 +1,10 @@
+.text {
+    text-align: center;
+    white-space: pre-line; 
+    font: bold 30px Helvetica;
+    color: #ffffff
+}
+  
+  .hidden {
+      transform:translate(-3000px, 20px)
+          }
