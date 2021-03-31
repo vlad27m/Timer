@@ -1,10 +1,10 @@
 .text {
     text-align: center;
-    white-space: pre-line; 
+    white-space: pre-line;
     font: bold 30px Helvetica;
-    color: #ffffff
+    color: #ffffff;
 }
-  
-  .hidden {
-      transform:translate(-3000px, 20px)
-          }
+
+.hidden {
+    transform: translate(-3000px, 20px);
+}
